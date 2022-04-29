@@ -4,6 +4,9 @@ body {
   background-image: url("https://acegif.com/wp-content/gifs/raining-money-14.gif");
   background-repeat: no-repeat;
   background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
 }
 
 .col-4 {
